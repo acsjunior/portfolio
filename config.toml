@@ -3,7 +3,7 @@
 baseURL = "http://acsjunior.com/"
 languageCode = "pt-br"
 title = "António Júnior"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+googleAnalytics = "G-S1X78PVVFM"
 paginate = 6
 
 
