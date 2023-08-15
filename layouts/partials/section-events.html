@@ -1,0 +1,31 @@
+{{ if .Site.Params.events.enable }}
+<!-- begin events -->
+<section class="section blog">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="contaniner__inner animate">
+
+        <div class="section__info">
+          <div class="section__head">
+            <h2 class="section__title">{{ .Site.Params.events.events__title | safeHTML }}</h2>
+            <a class="section__link" href="/events">Ver tudo <i class="ion ion-md-arrow-forward"></i></a>
+          </div>
+          {{ if .Site.Params.events.events__description }}
+            <p class="section__description">{{ .Site.Params.events.events__description }}</p>
+          {{ end }}
+        </div>
+
+          <div class="row">
+            {{ range (where .Site.RegularPages "Section" "events" | first 3 ) }}
+              {{ partial "event-content.html" . }}
+            {{ end }}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end events -->
+{{ end }}

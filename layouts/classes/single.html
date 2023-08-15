@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<div class="container">
+  <div class="page-head">
+    <h1 class="page-title">{{ .Title }}</h1>
+  </div>
+  <article class="page animate">
+    <p>{{ .Params.description }}</p>
+    <p>
+      <b>Local: </b>{{ .Params.local }}<br>
+      <b>Data: </b><time datetime="{{ .Params.date.Format " 2006-01-02T15:04:05Z07:00" }}">{{ .Params.date.Format "02/01/2006" }}
+    </p>
+    <div class="page-image">
+      {{ if not .Params.transmission_url }}
+      <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+      {{ else }}
+      <iframe src="{{ .Params.transmission_url }}" frameborder="0" allowfullscreen></iframe>
+      {{ end }}
+    </div>
+  </article>
+</div>
+
+<!-- begin page -->
+<div class="container">
+
+  <article class="page animate">
+    <div class="page__content">
+      {{ .Content }}
+    </div>
+    {{ partial "class-navigation.html" . }}
+  </article>
+
+</div>
+<!-- end page -->
+
+{{ end }}

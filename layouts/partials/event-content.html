@@ -1,0 +1,42 @@
+<div class="event col col-4 col-d-6 col-t-12">
+  <div class="event__inner">
+
+    {{ if not .Params.transmission_url }}
+      <div class="image-wrap">
+        <a class="event__image" href="{{ .RelPermalink }}">
+          <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+        </a>
+      </div>
+    {{ else }}
+      <div class="video-wrap">
+        <p class="event__video">
+          <iframe src="{{ .Params.transmission_url }}" frameborder="0" allowfullscreen></iframe>
+        </p>
+      </div>
+    {{ end }}
+
+    <div class="event__content">
+
+      <h2 class="event__title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+
+      <p class="event__excerpt">
+        {{ if .Description }}{{ .Description }}{{ else }}{{ truncate 75 .Summary | safeHTML }}{{ end }}
+      </p>
+
+      <div class="event__meta">
+        <div class="event-info">
+          <p class="event__local">
+            {{ .Params.local }}<br>
+            <span class="event__date">
+              <time datetime="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">{{ .Params.date.Format "02/01/2006" }}
+              </time>
+            </span>
+          </p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
