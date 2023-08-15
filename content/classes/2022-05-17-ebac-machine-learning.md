@@ -8,6 +8,10 @@ description: >-
   Workshop de 3 dias sobre modelos supervisionados de machine learning.
 ---
 
+## Material de apoio:
+
+- [Apresentação](https://drive.google.com/uc?export=download&id=1kTcFp6U5oxHFVCnaF7XZyqGFHajUIdaf)
+
 <hr>
 
 ## Dia 1 (17/05/2022)
