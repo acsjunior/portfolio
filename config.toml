@@ -13,8 +13,8 @@ paginate = 6
 
 
 [params.global.image]
-  enable = true
-  # cover__image = 'https://via.placeholder.com/1920x600' # Add global cover image (This field adds a background to the top and bottom of the site.)
+  enable = false
+  cover__image = 'bg_fff8ea.png'
 
 #-------------------------------
 # Main Menu

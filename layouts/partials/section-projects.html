@@ -1,5 +1,5 @@
-{{ if .Site.Params.projects.enable }}
-<!-- begin projects -->
+{{ if .Site.Params.recommendations.enable }}
+<!-- begin recommendations -->
 <section class="section projects" id="projects">
   <div class="container">
     <div class="row">
@@ -8,16 +8,16 @@
 
           <div class="section__info">
             <div class="section__head">
-              <h2 class="section__title">{{ .Site.Params.projects.projects__title | safeHTML }}</h2>
-              <a class="section__link" href="/projects">Ver tudo <i class="ion ion-md-arrow-forward"></i></a>
+              <h2 class="section__title">{{ .Site.Params.recommendations.recommendations__title | safeHTML }}</h2>
+              <a class="section__link" href="/recommendations">Ver tudo <i class="ion ion-md-arrow-forward"></i></a>
             </div>
-            {{ if .Site.Params.projects.projects__description }}
-              <p class="section__description">{{ .Site.Params.projects.projects__description }}</p>
+            {{ if .Site.Params.recommendations.recommendations__description }}
+              <p class="section__description">{{ .Site.Params.recommendations.recommendations__description }}</p>
             {{ end }}
           </div>
 
           <div class="row">
-            {{ range (where .Site.RegularPages "Section" "projects" | first 6 ) }}
+            {{ range (where .Site.RegularPages "Section" "recommendations" | first 6 ) }}
             <article class="project col col-4 col-d-6 col-t-12">
               <div class="project__content">
                 <a href="{{ .RelPermalink }}" class="project__image">
@@ -43,5 +43,5 @@
     </div>
   </div>
 </section>
-<!-- end projects -->
+<!-- end recommendations -->
 {{ end }}
