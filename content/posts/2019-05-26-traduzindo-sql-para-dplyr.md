@@ -9,4 +9,4 @@ Quando comecei a programar em R a minha principal referência para manipulação
 
 É claro que, com a prática, veio a fluência, entretanto, conhecer o pacote dplyr fez total diferença.
 
-<a href="https://www.linkedin.com/pulse/traduzindo-instruções-sql-para-r-utilizando-o-dplyr-da-silva-júnior/" class="nav__link cta-button button button--small" target="_blank">Acesse a publicação completa no LinkedIn</a>
+<a href="https://www.linkedin.com/pulse/traduzindo-instruções-sql-para-r-utilizando-o-dplyr-da-silva-júnior/" class="nav__link cta-button button button--small" target="_blank">Acesse a publicação completa no Linkedin</a>

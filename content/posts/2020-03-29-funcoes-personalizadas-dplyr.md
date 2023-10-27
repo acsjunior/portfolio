@@ -9,4 +9,4 @@ Um dia desses um colega me perguntou como criar uma função <code>summary()</co
 
 Entre as formas possíveis, escolhi dar um exemplo fazendo uso do pacote dplyr, devido a versatilidade e praticidade que ele nos provê, e abaixo demonstro passo a passo como criar a função.
 
-<a href="https://www.linkedin.com/pulse/utilizando-colunas-do-data-frame-como-argumento-em-da-silva-júnior/" class="nav__link cta-button button button--small" target="_blank">Acesse a publicação completa no LinkedIn</a>
+<a href="https://www.linkedin.com/pulse/utilizando-colunas-do-data-frame-como-argumento-em-da-silva-júnior/" class="nav__link cta-button button button--small" target="_blank">Acesse a publicação completa no Linkedin</a>

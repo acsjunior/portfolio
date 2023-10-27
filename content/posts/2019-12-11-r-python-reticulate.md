@@ -11,4 +11,4 @@ De acordo com a definição encontrada na página do pacote, o reticulate fornec
 
 Vou dar um pequeno exemplo de uso. Para mais detalhes, acesse a [documentação](https://rstudio.github.io/reticulate/).
 
-<a href="https://www.linkedin.com/pulse/exemplo-de-interoperabilidade-entre-python-e-r-usando-antonio-c-/" class="nav__link cta-button button button--small" target="_blank">Acesse a publicação completa no LinkedIn</a>
+<a href="https://www.linkedin.com/pulse/exemplo-de-interoperabilidade-entre-python-e-r-usando-antonio-c-/" class="nav__link cta-button button button--small" target="_blank">Acesse a publicação completa no Linkedin</a>

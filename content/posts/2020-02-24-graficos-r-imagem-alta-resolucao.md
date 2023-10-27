@@ -9,4 +9,4 @@ Com o Rmarkdown podemos elaborar relatórios e slides com facilidade e muita qua
 
 Neste post, baseado na dúvida recente de um colega, vou demonstrar como agrupar alguns gráficos do ggplot2 em uma imagem de alta resolução.
 
-<a href="https://www.linkedin.com/pulse/agrupando-gráficos-do-r-em-uma-imagem-de-alta-da-silva-júnior/" class="nav__link cta-button button button--small" target="_blank">Acesse a publicação completa no LinkedIn</a>
+<a href="https://www.linkedin.com/pulse/agrupando-gráficos-do-r-em-uma-imagem-de-alta-da-silva-júnior/" class="nav__link cta-button button button--small" target="_blank">Acesse a publicação completa no Linkedin</a>

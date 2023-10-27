@@ -13,4 +13,4 @@ De acordo com a documentação do pacote, o esquisse é um add-in que nos permit
 
 Vamos ver como esta mágica funciona.
 
-<a href="https://www.linkedin.com/pulse/interface-drag-drop-para-construção-de-gráficos-r-da-silva-júnior/" class="nav__link cta-button button button--small" target="_blank">Acesse a publicação completa no LinkedIn</a>
+<a href="https://www.linkedin.com/pulse/interface-drag-drop-para-construção-de-gráficos-r-da-silva-júnior/" class="nav__link cta-button button button--small" target="_blank">Acesse a publicação completa no Linkedin</a>
