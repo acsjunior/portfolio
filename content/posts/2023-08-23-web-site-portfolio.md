@@ -2,7 +2,7 @@
 title: 'Criando um web site para o seu portfólio de dados'
 date: '2023-08-23'
 image:  'images/posts/2023-08-23.jpg'
-tags:   [portfolio]
+tags:   [carreira, portfolio]
 ---
 
 Muito se fala sobre a importância da criação de um portfólio de projetos para as pessoas que desejam ingressar na área de dados. O GitHub costumar ser a plataforma mais usada para armazenar estes projetos, mas nem sempre é a mais adequada.
