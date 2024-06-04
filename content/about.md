@@ -3,11 +3,13 @@ title: Bio
 image: 
 ---
 
-**António Júnior** atualmente é Coordenador de Ciência de Dados no Grupo Boticário e aluno de mestrado do programa de Métodos Numéricos em Engenharia da UFPR. É formado em Análise e Desenvolvimento de Sistemas e tem especialização em Data Science e Big Data.
+**António Júnior** atualmente é Coordenador de Ciência de Dados no Grupo Boticário. Além disso, é formado em Análise e Desenvolvimento de Sistemas, especialista em Data Science & Big Data e mestre em Otimização Aplicada.
 
-Trabalhou quase 10 anos em projetos de engenharia no setor de Óleo e Gás, até migrar para a Ciência de Dados em 2018. Em Dados atuou na área da Saúde, E-commerce e desde 2020 faz parte da equipe de Planejamento de Demanda do Grupo Boticário.
+Iniciou sua trajetória profissional em 2001 no setor portuário de Santos-SP. Em 2009 fez sua primeira transição de carreira, passando a atuar na área de Instrumentação e Automação Industrial no setor de Óleo e Gás. Em 2014 passou pela segunda transição de carreira, ingressando na área de Planejamento e Controle de projetos no mesmo setor. Sua terceira transição de carreira aconteceu em 2018, dessa vez para a área de Data Science & Analytics.
 
-Considera-se um profissional orientado ao negócio e de perfil generalista, com afinidade desde a estruturação de bases de dados, data quality, análises descritiva e diagnóstica, até a modelagem preditiva e prescritiva.
+Em dados atuou nas áreas da Saúde, E-Commerce e desde 2020 faz parte da equipe de Ciência de Dados que atua na área de Planejamento de Demanda do Grupo Boticário. Sua abrangente experiência moldou um profissional de perfil generalista e orientado ao negócio.
+
+Júnior também é apaixonado por compartilhar conhecimento, seja por meio de suas mídias sociais, mentorias ou lecionando em instituições de ensino.
 
 <!-- ![Loneliness](https://via.placeholder.com/1200x800)
 *Photo by [Grace Madeline](https://via.placeholder.com/1200x800) on Unsplash* -->

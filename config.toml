@@ -85,8 +85,7 @@ paginate = 6
     author__name = "António Júnior"
     author__title = "António Júnior"
     author__bio = """ \
-    Atualmente é Coordenador de Ciência de Dados no Grupo Boticário e aluno de mestrado do programa de Métodos Numéricos em Engenharia da UFPR. \
-    É formado em Análise e Desenvolvimento de Sistemas e tem especialização em Data Science e Big Data."""
+    Atualmente é Coordenador de Ciência de Dados no Grupo Boticário. Além disso, é formado em Análise e Desenvolvimento de Sistemas, especialista em Data Science & Big Data e mestre em Otimização Aplicada."""
     author__image = "images/avatar.jpeg"
     author__avatar = "images/avatar.jpeg"
     button__text = "Saiba mais"
