@@ -177,11 +177,6 @@ paginate = 6
     name = "Instagram"
     link = "https://instagram.com/mentordedados"
 
- [[params.social]]
-    icon = "ion-logo-facebook"
-    name = "Facebook"
-    link = "https://facebook.com/mentordedados"
-
   [[params.social]]
     icon = "ion-logo-youtube"
     name = "Youtube"
