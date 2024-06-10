@@ -180,12 +180,12 @@ paginate = 6
   [[params.social]]
     icon = "ion-logo-youtube"
     name = "Youtube"
-    link = "https://www.youtube.com/@acsjunior_"
+    link = "https://www.youtube.com/@mentordedados"
 
-  [[params.social]]
-    icon = "ion-md-mail"
-    name = "E-mail"
-    link = "mailto:falecom@acsjunior.com"
+  # [[params.social]]
+  #   icon = "ion-md-mail"
+  #   name = "E-mail"
+  #   link = "mailto:juniorssz@gmail.com"
 
 
   # [[params.social]]
