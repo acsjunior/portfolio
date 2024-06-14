@@ -7,9 +7,9 @@ image:
 
 Iniciou sua trajetória profissional em 2001 no setor portuário de Santos-SP. Em 2009 fez sua primeira transição de carreira, passando a atuar na área de Instrumentação e Automação Industrial no setor de Óleo e Gás. Em 2014 passou pela segunda transição de carreira, ingressando na área de Planejamento e Controle de projetos no mesmo setor. Sua terceira transição de carreira aconteceu em 2018, dessa vez para a área de Data Science & Analytics.
 
-Em dados atuou nas áreas da Saúde, E-Commerce e desde 2020 faz parte da equipe de Ciência de Dados que atua na área de Planejamento de Demanda do Grupo Boticário. Sua abrangente experiência moldou um profissional de perfil generalista e orientado ao negócio.
+Em dados atuou nas áreas da Saúde, E-Commerce e desde 2020 faz parte da equipe de Ciência de Dados que atua no desenvolvimento e sustentação de produtos de dados para planejamento de demanda no Grupo Boticário. Sua abrangente experiência moldou um profissional de perfil generalista e orientado ao negócio.
 
-Júnior também é apaixonado por compartilhar conhecimento, seja por meio de suas mídias sociais, mentorias ou lecionando em instituições de ensino.
+Júnior também é apaixonado por compartilhar conhecimento, seja por meio de suas mídias sociais, mentorias, palestras ou lecionando em instituições de ensino.
 
 <!-- ![Loneliness](https://via.placeholder.com/1200x800)
 *Photo by [Grace Madeline](https://via.placeholder.com/1200x800) on Unsplash* -->
