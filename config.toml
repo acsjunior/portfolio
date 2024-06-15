@@ -85,7 +85,7 @@ paginate = 6
     author__name = "António Júnior"
     author__title = "António Júnior"
     author__bio = """ \
-    Sou formado em Análise e Desenvolvimento de Sistemas, especialista em Data Science & Big Data, mestre em Otimização Aplicada e atualmente sou Coordenador de Ciência de Dados no Grupo Boticário."""
+    Atualmente sou Coordenador de Ciência de Dados no Grupo Boticário. Além disso, sou um apaixonado por compartilhar conhecimento, seja por meio de minhas mídias sociais, mentorias, palestras ou lecionando em instituições de ensino."""
     author__image = "images/avatar.jpeg"
     author__avatar = "images/avatar.jpeg"
     button__text = "Saiba mais sobre mim"
