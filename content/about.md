@@ -3,13 +3,17 @@ title: Bio
 image: 
 ---
 
-**António Júnior** atualmente é Coordenador de Ciência de Dados no Grupo Boticário. Além disso, é formado em Análise e Desenvolvimento de Sistemas, especialista em Data Science & Big Data e mestre em Otimização Aplicada.
+Sou formado em Análise e Desenvolvimento de Sistemas, especialista em Data Science & Big Data, mestre em Otimização Aplicada e atualmente sou Coordenador de Ciência de Dados no Grupo Boticário.
 
-Iniciou sua trajetória profissional em 2001 no setor portuário de Santos-SP. Em 2009 fez sua primeira transição de carreira, passando a atuar na área de Instrumentação e Automação Industrial no setor de Óleo e Gás. Em 2014 passou pela segunda transição de carreira, ingressando na área de Planejamento e Controle de projetos no mesmo setor. Sua terceira transição de carreira aconteceu em 2018, dessa vez para a área de Data Science & Analytics.
+Iniciei minha trajetória profissional em 2001 no setor portuário de Santos/SP, onde trabalhei cerca de 8 anos até fazer a minha primeira transição de carreira. Em 2009 ingressei no setor de Engenharia e Construção, onde atuei predominantemente na indústria de Óleo e Gás como Técnico de Instrumentação e Automação Industrial até 2014, ano que realizei minha segunda transição de carreira.
 
-Em dados atuou nas áreas da Saúde, E-Commerce e desde 2020 faz parte da equipe de Ciência de Dados que atua no desenvolvimento e sustentação de produtos de dados para planejamento de demanda no Grupo Boticário. Sua abrangente experiência moldou um profissional de perfil generalista e orientado ao negócio.
+Após esta transição passei a atuar na área de Planejamento e Controle de projetos de engenharia na indústria de Óleo e Gás. Nesta nova profissão fui pouco a pouco desenvolvendo habilidades de análise de dados e visão de negócios, até que em 2018 realizei minha terceira transição de carreira, dessa vez para a área de Data Science e Analytics.
 
-Júnior também é apaixonado por compartilhar conhecimento, seja por meio de suas mídias sociais, mentorias, palestras ou lecionando em instituições de ensino.
+Em Dados atuei nas áreas da Saúde, E-Commerce e desde 2020 faço parte da equipe de ciência de dados do Grupo Boticário que atua em colaboração com a área de Planejamento de Demanda da empresa. Iniciei como Cientista de Dados Pleno, fui promovido a Sênior e em 2022 assumi a liderança da equipe.
+
+Como consequência da minha abrangente experiência me tornei um profissional de perfil generalista e orientado ao negócio. Além disso, tenho como principais pontos fortes a capacidade de nutrir boas relações e de construir ambientes agradáveis (geralmente bem-humorados), a facilidade para me comunicar bem de forma oral e escrita, a responsabilidade e o senso de comprometimento, o raciocínio lógico e analítico apurado e a forte motivação por estar sempre aprendendo.
+
+Também sou um apaixonado por compartilhar conhecimento, seja por meio de minhas mídias sociais, mentorias, palestras ou lecionando em instituições de ensino.
 
 <!-- ![Loneliness](https://via.placeholder.com/1200x800)
 *Photo by [Grace Madeline](https://via.placeholder.com/1200x800) on Unsplash* -->
