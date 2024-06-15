@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://www.mentordedados.com.br/"
+baseURL = "https://mentordedados.com.br/"
 languageCode = "pt-br"
 title = "António Júnior"
-googleAnalytics = "G-S1X78PVVFM"
+googleAnalytics = ""
 paginate = 6
 
 
