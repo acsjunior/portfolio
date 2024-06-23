@@ -43,16 +43,16 @@ paginate = 6
     url = "/events/"
     weight = 3
 
-  [[menu.main]]
-    identifier = "classes"
-    name = "Aulas"
-    url = "/classes/"
-    weight = 4
-
 [[menu.main]]
     identifier = "blog"
     name = "Publicações"
     url = "/posts/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "classes"
+    name = "Aulas"
+    url = "/classes/"
     weight = 5
 
 # [[menu.main]]
@@ -180,7 +180,7 @@ paginate = 6
   [[params.social]]
     icon = "ion-logo-youtube"
     name = "Youtube"
-    link = "https://www.youtube.com/@mentordedados"
+    link = "https://www.youtube.com/@mentordedados/playlists"
 
   # [[params.social]]
   #   icon = "ion-md-mail"
