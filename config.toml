@@ -170,17 +170,17 @@ paginate = 6
   [[params.social]]
     icon = "ion-logo-linkedin"
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/acsjunior/"
+    link = "https://www.linkedin.com/in/antoniojunior-dados/"
 
   [[params.social]]
     icon = "ion-logo-instagram"
     name = "Instagram"
-    link = "https://instagram.com/mentordedados"
+    link = "https://instagram.com/antoniojunior.me"
 
   [[params.social]]
     icon = "ion-logo-youtube"
     name = "Youtube"
-    link = "https://www.youtube.com/@mentordedados/playlists"
+    link = "https://www.youtube.com/@antoniojunior-dados/playlists"
 
   # [[params.social]]
   #   icon = "ion-md-mail"
