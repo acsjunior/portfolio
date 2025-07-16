@@ -85,7 +85,9 @@ paginate = 6
     author__name = "António Júnior"
     author__title = "António Júnior"
     author__bio = """ \
-    Atualmente sou Coordenador de Ciência de Dados no Grupo Boticário e possuo uma trajetória diversificada, com 8 anos de experiência no setor portuário e 9 anos no setor de Óleo e Gás, antes de migrar para Data Science & Analytics em 2018. Sou graduado em Análise e Desenvolvimento de Sistemas, com especialização em Data Science & Big Data e mestrado em Otimização Aplicada. Minha abrangente experiência moldou um profissional de perfil generalista e orientado ao negócio. Sou também apaixonado por compartilhar conhecimento, seja por meio de mídias sociais, mentorias, palestras ou em salas de aula."""
+    Sou especialista em ciência de dados e IA preditiva aplicada ao planejamento de demanda, com histórico de liderança técnica e evolutiva dentro de uma das maiores operações de supply chain da América Latina.
+
+Desde 2020, atuo no Grupo Boticário, onde fui responsável por liderar uma evolução significativa na aplicação de modelos de IA preditiva voltados ao processo de S&OP. Fui promovido de cientista de dados a coordenador em 2022 e, atualmente, lidero uma equipe com 10 profissionais (cientistas de dados e engenheiros de ML) dedicada ao desenvolvimento, sustentação e melhoria contínua de modelos de previsão de demanda e soluções analíticas integradas ao processo de planejamento."""
     author__image = "images/avatar.jpeg"
     author__avatar = "images/avatar.jpeg"
     button__text = "Saiba mais sobre mim"
